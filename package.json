@@ -1,0 +1,29 @@
+{
+  "name": "levelbot",
+  "version": "1.0.0",
+  "description": "Leveling Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Wassim",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "basic-ms": "^1.0.7",
+    "canvacord": "^5.0.8",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.1",
+    "discord.js-menu": "^2.3.1",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "node-fetch": "^3.0.0",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
