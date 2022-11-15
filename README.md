@@ -6,6 +6,11 @@ Hey se shield / protect discord est un très bon shield faite en bonne usage �
 
 Hey se shield / protect discord is a very good shield made of good use 😉 and to put this bot in English (prefix)lang en
 
+# Installation
+
+`npm i`
+`node index.js`
+
 ## Problème
 
-Venez me dm
+Venez me dm !salah#2200
