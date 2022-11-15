@@ -2,6 +2,10 @@
 
 Hey se shield / protect discord est un très bon shield faite en bonne usage 😉
 
-# Shield / Protect en en
+# Shield / Protect in en
 
-Hey se shield / protect discord est un très bon shield faite en bonne usage 😉 et pour mettre se bot en anglais (prefix)lang en
+Hey se shield / protect discord is a very good shield made of good use 😉 and to put this bot in English (prefix)lang en
+
+## Problème
+
+Venez me dm
